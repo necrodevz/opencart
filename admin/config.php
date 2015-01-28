@@ -4,8 +4,8 @@ define('HTTP_SERVER', 'http://kappy-d.kapildevprojects.com/sites/projects/ecomme
 define('HTTP_CATALOG', 'http://kappy-d.kapildevprojects.com/sites/projects/ecommerce/opencart/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://kappy-d.kapildevprojects.com/sites/projects/ecommerce/opencart/admin/');
-define('HTTPS_CATALOG', 'http://kappy-d.kapildevprojects.com/sites/projects/ecommerce/opencart/');
+define('HTTPS_SERVER', 'https://kappy-d.kapildevprojects.com/sites/projects/ecommerce/opencart/admin/');
+define('HTTPS_CATALOG', 'https://kappy-d.kapildevprojects.com/sites/projects/ecommerce/opencart/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/sites/projects/ecommerce/opencart/admin/');
